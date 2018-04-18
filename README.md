@@ -1,2 +1,2 @@
-#learningGithub
-this is a smaple project to master github
+#MyApp
+This is my App
